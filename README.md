@@ -1,4 +1,4 @@
-# Analisis_de_Precipitacion
+# Análisis de precipitación
 Este proyecto es para analizar datos de precipitación de los datos obtenidos de estaciones metereológicas para la zona de Huamantla y sus alrededores. 
 Son 88 estaciones que serán analizadas. El periodo de estudio es 2017-2018. Aunque también se pretende analizar el patrón de lluvia actual, para ello es necesario incrementar el periodo de tiempo, al menos 30 años, para obtener la tendencia de la lluvia. 
 El objetivo es representar el gradiente de precipitación/humedad para la zona de Huamantla. 
